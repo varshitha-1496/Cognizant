@@ -32,4 +32,4 @@ dotnet ef database update
 6. **06** shows how it all gets monitored and shipped to production with Docker/Kubernetes.
 
 ## Author
-Kakumanu Venkata Sadwik — B.Tech CSE, VFSTR
+Dodda Varshitha Reddy — B.Tech CSE, VFSTR
